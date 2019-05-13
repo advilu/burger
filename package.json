@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/advilu/burger#readme",
   "dependencies": {
-    "express-handlebars": "^3.0.2"
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.7.5"
   }
 }
